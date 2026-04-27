@@ -44,7 +44,6 @@ scikit-learn
 * Le panier moyen s’élève à 983 €, avec une forte variabilité selon les clients
 * Les catégories Electronics, Food et Toys figurent parmi les plus présentes dans les ventes
 
-- 
 # Valeur business
 Les analyses réalisées permettent de dégager plusieurs leviers concrets pour améliorer la performance de la plateforme :
 * Les clients âgés de 30 à 50 ans concentrent une part importante du chiffre d’affaires. Ce segment mérite donc une attention particulière, notamment à travers des campagnes marketing ciblées et des offres personnalisées.
@@ -52,7 +51,6 @@ Les analyses réalisées permettent de dégager plusieurs leviers concrets pour 
 * Les clients récurrents ne dépensent pas davantage que les nouveaux clients. Cela suggère un potentiel d’amélioration du côté de la fidélisation, par exemple via des programmes de récompense ou des avantages exclusifs.
 * Les sessions longues sont souvent associées à des paniers plus faibles. Ce comportement peut traduire une hésitation ou des difficultés dans le parcours d’achat. Il serait pertinent de simplifier la navigation ou de mieux guider l’utilisateur (recommandations, relances, etc.)
 * Enfin, le modèle prédictif permet d’identifier efficacement les clients satisfaits, mais reste limité pour détecter les clients insatisfaits. Un modèle plus équilibré permettrait d’anticiper les risques et de mettre en place des actions préventives.
-
 
 # Structure du projet
 Data cleaning
